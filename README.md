@@ -1,1 +1,1 @@
-本脚本用于单细胞测序。
+This script is used for single-cell sequencing. This project does not contain original code.  
